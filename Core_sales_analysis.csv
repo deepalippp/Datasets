@@ -1,0 +1,33 @@
+Invoicenumber,Invoicedcate,CustomerId,Firstname,lastname,,Product_name,Unit Price,Unit_Cost,Quantity,City,State,,Customer_email
+INC101,02-10-2026,CR1001,Aarti,SINGH,,Laptop,"90,000","80,000",1,Bihar,Uttar Pradesh,AartiSINGH,AartiSINGH@GMAIL>COM
+INC102,03-10-2026,CR1002,Deepak,MisHHRA,,mobile charger,4500,3000,1,ludiana,punjab,DeepakMisHHRA,DeepakMisHHRA@GMAIL>COM
+INC103,04-10-2026,CR1003,Divyya,kumari,,Headphones,4000,3000,1,gangtok,sikkim,Divyyakumari,Divyyakumari@GMAIL>COM
+INC104,02-10-2026,CR1001,Aarti,SINGH,,Mobile,"40,000","30,000",1,Bihar,Uttar Pradesh,AartiSINGH,AartiSINGH@GMAIL>COM
+INC105,03-10-2026,CR1005,srinidhi,shetty,,Laptop ------cover,3000,3000,2,patna,maharastra,srinidhishetty,srinidhishetty@GMAIL>COM
+INC106,04-10-2026,CR1006,saurav,k,,mouse,5000,4000,2,kolar,karnataka,sauravk,sauravk@GMAIL>COM
+INC107,08-10-2026,CR1007,d,,,keyboard,5000,4500,2,hyderabad,telangana,d,d@GMAIL>COM
+INC101,09-10-2026,CR1001,Aarti,SINGH,,Sunglasses,4000,3500,1,Bihar,uttar pradesh,AartiSINGH,AartiSINGH@GMAIL>COM
+INC109,10-10-2026,CR1009,suneeta,vemularapa,,laptop charger,20000,15000,4,chennai-----------,tamilnadu,suneetavemularapa,suneetavemularapa@GMAIL>COM
+INC110,11-10-2026,CR1010,priyanka,shrna,,mobile pin,6000,3000,5,kochi,kerala,priyankashrna,priyankashrna@GMAIL>COM
+INC111,02-10-2026,CR1011,sreeleela,murty,,mobile back cover,2000,1300,6,bidar,karnataka,sreeleelamurty,sreeleelamurty@GMAIL>COM
+INC112,03-10-2026,CR1012,sahnya,rathod,,mobile,125000,120000,1,varanasi,Uttar Pradesh,sahnyarathod,sahnyarathod@GMAIL>COM
+INC113,08-10-2026,CR1001,Aarti,SINGH,,Sunglasses,4000,3500,1,Bihar,uttar pradesh,AartiSINGH,AartiSINGH@GMAIL>COM
+INC114,08-10-2026,CR1010,priyanka,privthi,,mobile -----------pin,!!NNA,3000,5,Error,kerala,priyankaprivthi,priyankaprivthi@GMAIL>COM
+INC109,09-10-2026,CR1009,suneeta,allu,,laptop charger,20000,15000,4,chennai,tamilnadu,suneetaallu,suneetaallu@GMAIL>COM
+INC115,10-10-2026,CR1012,,sahnya,rathod,mobile,125000,120000,2,NA,Uttar Pradesh,sahnya,sahnya@GMAIL>COM
+INC116,11-10-2026,CR1013,soumya,shety,,Sungl97542379hgvccasses,4000,3500,1,varanasi,Uttar Pradesh,soumyashety,soumyashety@GMAIL>COM
+INC117,16-10-2026,CR1014,beshma,khan,,mobile pin,6000,3000,5,varanasi,Uttar Pradesh,beshmakhan,beshmakhan@GMAIL>COM
+INC118,17-10-2026,CR1015,pankaji,kumar,,laptop charger,20000,15000,4,prayagraj,Uttar Pradesh,pankajikumar,pankajikumar@GMAIL>COM
+INC119,18-10-2026,CR1016,preetam,raj,,mobile,125000,120000,5,prayagraj,#Uttar Pradesh,preetamraj,preetamraj@GMAIL>COM
+INC120,21-10-2026,CR1017,brijesh,kumar,,Laptop@@@@@,"90,000","80,000",2,agra,#,brijeshkumar,brijeshkumar@GMAIL>COM
+INC121,22-10-2026,CR1018,richa,singh,,mobile charger,4500,3000,9\,,Uttar Pradesh,richasingh,richasingh@GMAIL>COM
+INC122,23-10-2026,CR1019,avninash,bunty,,Headphones,4000,3000,10=,kanpur,@,avninashbunty,avninashbunty@GMAIL>COM
+INC123,24-10-2026,CR1020,pankaji,kumar,,Mobile,"40,000","30,000",7,howRAH,@,pankajikumar,pankajikumar@GMAIL>COM
+INC124,25-10-2026,CR1021,prihjktam,raj,,Laptop cover,3000,3000,*8,DURGApur,))))),prihjktamraj,prihjktamraj@GMAIL>COM
+INC125,23-10-2026,CR1022,babitha,sharma,,m obile,40000,30000,3,MALDa,0,babithasharma,babithasharma@GMAIL>COM
+INC126,24-10-2026,CR1023,babbusona,sharma,,mobile chtregr)))),2000,1500,3,KOLkata,WESTBENGAl,babbusonasharma,babbusonasharma@GMAIL>COM
+INC127,25-10-2026,CR1024,bailesh,khandvi,,p@@hone,99900,80000,2,asansol,WESTBENGAl,baileshkhandvi,baileshkhandvi@GMAIL>COM
+INC128,23-10-2026,CR1025,beema,sharma,,W-----ebcam,2800,1700,2,barasat,WESTBENGAl,beemasharma,beemasharma@GMAIL>COM
+INC129,24-10-2026,CR1026,brijesh,kumar,,cam-099876era,8000,6800,1,MALDa,WESTBENGAl,brijeshkumar,brijeshkumar@GMAIL>COM
+INC130,25-10-2026,CR1027,paooka,kumaro,,tablet,50000,25000,1,DURGApur,WESTBENGAl,paookakumaro,paookakumaro@GMAIL>COM
+INC130,25-10-2026,CR1027,paooka,kumaro,,tablet,50000,25000,1,DURGApur,WESTBENGAl,paookakumaro,paookakumaro@GMAIL>COM
